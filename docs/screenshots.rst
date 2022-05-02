@@ -5,7 +5,7 @@ Screenshots
 ***********
 
 This is what paperless-ng looks like. You shouldn't use paperless to index
-research papers though, its a horrible tool for that job.
+research papers though, it's a horrible tool for that job.
 
 The dashboard shows customizable views on your document and allows document uploads:
 
